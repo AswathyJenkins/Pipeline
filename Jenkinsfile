@@ -1,6 +1,6 @@
 node {
     stage 'DEV'
-   echo 'Hello World1'
+   echo 'Deployed in Dev environment'
    stage 'QA'
    echo 'Hello World2'
    stage 'UAT'
