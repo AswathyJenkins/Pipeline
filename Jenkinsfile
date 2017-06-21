@@ -3,7 +3,9 @@ node {
    echo 'Hello World1'
    stage 'QA'
    echo 'Hello World2'
-   stage 'PROD'
+   stage 'UAT'
    echo 'Hello World3'
+    stage 'PROD'
+   echo 'Hello World4'
    
 } 
