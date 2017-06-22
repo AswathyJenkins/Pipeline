@@ -2,7 +2,7 @@ node {
     stage 'DEV'
    echo 'Hello World1'
    stage 'QA'
-   echo 'Hello World2'
+   echo 'Deployed in QA'
    stage 'UAT'
    echo 'Hello World3'
     stage 'PROD'
